@@ -8,7 +8,7 @@ int main()
 {
 
     fstream myFile;
-    myFile.open("C:\\Users\\BE129\\Desktop\\animalNames.txt", ios::in);//read
+    myFile.open("C:\\Users\\BE129\\Desktop\\animalNames.txt", ios::in);//read REMEMBER TO REDIRECT PATH TO YOUR LOCAL MEMORY
 
     string fileContents;
 
